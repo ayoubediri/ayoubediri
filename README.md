@@ -25,4 +25,5 @@
 <a>
     <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubediri&layout=compact&theme=aura&langs_count=9" />
 </a>
+<img align="center" width="60%" src=https://www.codewars.com/users/Ayoub%20Diri/badges/large>
 
