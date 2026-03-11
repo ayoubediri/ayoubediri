@@ -5,7 +5,7 @@
   <h3>Computer Science Student @ 1337 UM6P RABAT | Active Learner & Researcher</h3>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Coding+in+C%2FC%2B%2B+and+Python;Building+at+1337+School;Exploring+Web+Dev+&+AI;Containerizing+with+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Engineering+high-performance+systems+in+C%2FC%2B%2B;Containerizing+modern+infrastructure+with+Docker;Integrating+AI+models+into+scalable+web+apps;Mastering+software+engineering+at+1337+UM6P" alt="Typing SVG" />
   </p>
 
   <p>
@@ -47,11 +47,12 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| **[Inception](https://github.com/ayoubediri/inception)** | System administration project building a complete, containerized infrastructure using Docker. | `Docker` `Shell` `SysAdmin` |
+| **[Minishell](https://github.com/ayoubediri/minishell)** | A minimal recreation of the bash shell, handling command parsing, execution, and built-ins. | `C` `Unix` `Bash` |
 | **[RAG System](https://github.com/ayoubediri/RAG_SYSTEM)** | Implementation of a Retrieval-Augmented Generation (RAG) system. | `Python` `AI` |
 | **[cub3d](https://github.com/ayoubediri/cub3d)** | 3D raycasting game engine inspired by Wolfenstein 3D (1337 Project). | `C` `Graphics` `Math` |
 | **[FDF](https://github.com/ayoubediri/fdf)** | 3D wireframe renderer for visualizing topographic maps. | `C` `Algorithms` |
 | **[Core C Tools (GNL/Libft)](https://github.com/ayoubediri/get_next_line)** | Foundational custom C libraries, including a line-by-line file reader and standard library rewrite. | `C` `Makefile` |
-
 ---
 ## 🛠️ Languages & Tools
 
