@@ -1,36 +1,110 @@
 <div align="center">
-<h1 align="center"><b>Hi , I'm Ayoub Diri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I'm+A+Computer+Science+Student,;Student+in+1337+UM6P+RABAT,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-<h3 align="center">I am a programmer from Morocco</h3>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Ayoub%20Diri&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
-<p> <img src="https://komarev.com/ghpvc/?username=ayoubediri&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubediri" /> </p>
+  <h3>Computer Science Student @ 1337 UM6P RABAT | Active Learner & Researcher</h3>
 
- 🌱 I’m currently learning **C and shell**
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Coding+in+C%2FC%2B%2B+and+Python;Building+at+1337+School;Exploring+Web+Dev+&+AI;Containerizing+with+Docker" alt="Typing SVG" />
+  </p>
 
- 💬 Ask me about **C and shell**
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ayoubediri&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
 
- 📫 How to reach me **ayoubdiri2023@gmail.com**
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ayoub-diri-477510287/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ayoubdiri2023@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-<h3>Languages and Tools:</h3>
-<p> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-<a>
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=ayoubediri&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a>
-    <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubediri&layout=compact&theme=aura&langs_count=9" />
-</a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-</picture>
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-<img align="center" width="60%" src=https://www.codewars.com/users/Ayoub%20Diri/badges/large>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/adiri" alt="adiri's 42 stats" /></a>
 </div>
 
+---
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="60%" style="border: none;">
+      <h2>👨‍💻 About Me</h2>
+      <ul>
+        <li>🇲🇦 Based in Morocco.</li>
+        <li>🎓 Studying at <b>1337 UM6P RABAT</b> (Part of the 42 Network).</li>
+        <li>🌱 I’m currently learning <b>Web Development and AI</b>.</li>
+        <li>💬 Ask me about <b>C, C++, Docker, and Machine Learning (ML)</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
+---
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[RAG System](https://github.com/ayoubediri/RAG_SYSTEM)** | Implementation of a Retrieval-Augmented Generation (RAG) system. | `Python` `AI` |
+| **[cub3d](https://github.com/ayoubediri/cub3d)** | 3D raycasting game engine inspired by Wolfenstein 3D (1337 Project). | `C` `Graphics` `Math` |
+| **[FDF](https://github.com/ayoubediri/fdf)** | 3D wireframe renderer for visualizing topographic maps. | `C` `Algorithms` |
+| **[Core C Tools (GNL/Libft)](https://github.com/ayoubediri/get_next_line)** | Foundational custom C libraries, including a line-by-line file reader and standard library rewrite. | `C` `Makefile` |
+
+---
+## 🛠️ Languages & Tools
+
+<div align="center">
+  <p><b>Systems, Low-Level & DevOps:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,docker,debian&perline=6" alt="Systems and DevOps Skills" />
+  </a>
+  
+  <br><br>
+  
+  <p><b>AI, Machine Learning & Data:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" alt="AI and ML Skills" />
+  </a>
+
+  <br><br>
+
+  <p><b>Web Development & Version Control:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,git&perline=6" alt="Web Development Skills" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub & Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubediri&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubediri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/adiri" alt="adiri's 42 stats" width="400" />
+  </a>
+  <br><br>
+  <a href="https://www.codewars.com/users/Ayoub%20Diri">
+    <img src="https://www.codewars.com/users/Ayoub%20Diri/badges/large" alt="Codewars Badge" />
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayoubediri/ayoubediri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayoubediri/ayoubediri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayoubediri/ayoubediri/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
