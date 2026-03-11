@@ -20,7 +20,11 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
-
+  <p align="center">
+    <a href="mailto:ayoubdiri2023@gmail.com">
+      <img src="https://img.shields.io/badge/Status-Available_For_Work_&_Internships-success?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Available for Work" />
+    </a>
+  </p>
 </div>
 
 ---
