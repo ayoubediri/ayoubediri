@@ -32,12 +32,12 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="60%" style="border: none;">
-      <h2>👨‍💻 About Me</h2>
+      <h2>About Me</h2>
       <ul>
-        <li>🇲🇦 Based in Morocco.</li>
-        <li>🎓 Studying at <b>1337 UM6P RABAT</b> (Part of the 42 Network).</li>
-        <li>🌱 I’m currently learning <b>Web Development and AI</b>.</li>
-        <li>💬 Ask me about <b>C, C++, Docker, and Machine Learning (ML)</b>.</li>
+        <li>Based in Morocco.</li>
+        <li>Studying at <b>1337 UM6P RABAT</b> (Part of the 42 Network).</li>
+        <li>I’m currently learning <b>Web Development and AI</b>.</li>
+        <li>Ask me about <b>C, C++, Docker, and Machine Learning (ML)</b>.</li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
@@ -47,7 +47,7 @@
 </table>
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
