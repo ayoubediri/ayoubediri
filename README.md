@@ -58,7 +58,7 @@
 | **[FDF](https://github.com/ayoubediri/fdf)** | 3D wireframe renderer for visualizing topographic maps. | `C` `Algorithms` |
 | **[Core C Tools (GNL/Libft)](https://github.com/ayoubediri/get_next_line)** | Foundational custom C libraries, including a line-by-line file reader and standard library rewrite. | `C` `Makefile` |
 ---
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <div align="center">
   <p><b>Systems, Low-Level & DevOps:</b></p>
@@ -84,13 +84,6 @@
 ---
 
 ## 📊 GitHub & Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubediri&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubediri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
