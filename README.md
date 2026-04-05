@@ -83,7 +83,7 @@
 
 ---
 
-## 📊 GitHub & Coding Stats
+## GitHub & Coding Stats
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
@@ -97,7 +97,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <picture>
