@@ -13,7 +13,7 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/ayoub-diri-477510287/" target="_blank">
+    <a href="https://www.linkedin.com/in/ayoub-diri" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:adiri@student.1337.ma">
